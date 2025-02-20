@@ -1,0 +1,9 @@
+pub const EASY_MINE_FIELD_WIDTH: u32 = 8;
+pub const EASY_MINE_FIELD_HEIGHT: u32 = 8;
+pub const EASY_MINE_NUM: u32 = 10;
+pub const MEDIUM_MINE_FIELD_WIDTH: u32 = 16;
+pub const MEDIUM_MINE_FIELD_HEIGHT: u32 = 16;
+pub const MEDIUM_MINE_NUM: u32 = 40;
+pub const HARD_MINE_FIELD_WIDTH: u32 = 30;
+pub const HARD_MINE_FIELD_HEIGHT: u32 = 16;
+pub const HARD_MINE_NUM: u32 = 99;
